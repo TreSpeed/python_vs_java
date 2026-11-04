@@ -15,3 +15,5 @@ Este proyecto analiza y compara la sintaxis y los conceptos fundamentales entre 
 | **Delimitación** | Indentación (espacios) | Llaves `{` ... `}` |
 | **Lectura de datos** | `input()` | `Scanner` |
 | **Salida en consola** | `print()` | `System.out.println()` |
+
+pd: Aprendi a utilizar la terminal con Github
